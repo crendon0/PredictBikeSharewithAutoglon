@@ -1,1 +1,1 @@
-## Project submission is under projects/Submission- Project 1
+## Project submission is under project/Submission- Project 1
